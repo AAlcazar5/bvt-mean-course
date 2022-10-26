@@ -1,5 +1,7 @@
 # BvtMeanCourse
 
+Bay Valley Tech sponsored course app with CRUD (Create, Read, Update, Delete) functionality.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.1.
 
 ## Development server
